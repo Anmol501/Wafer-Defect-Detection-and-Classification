@@ -1,4 +1,4 @@
-# Wafer Defect Detection & Classification using CNNs
+# Wafer Defect Detection & Classification using CNN
 
 This project performs wafer defect detection and classification using a pre-trained CNN (ResNet18) on the MIR-WM811K dataset, with additional root cause analysis using feature embeddings and PCA-based similarity retrieval.
 
@@ -54,4 +54,5 @@ This project performs wafer defect detection and classification using a pre-trai
 
 ```bash
 pip install torch torchvision pandas numpy matplotlib tqdm scikit-learn
+
 
